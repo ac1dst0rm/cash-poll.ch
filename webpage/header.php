@@ -14,9 +14,8 @@
     <nav class="nav">
         <ul>
             <li><a href="#results">Resultate</a></li>
-            <li><a href="#poll">Umfrage/a></li>
+            <li><a href="#poll">Umfrage</a></li>
             <li><a href="#about">Über</a></li>
         </ul>
     </nav>
- 
-</div>
+ </div>

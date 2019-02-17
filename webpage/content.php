@@ -1,26 +1,22 @@
 <div id="content">
     <div class="inner">
-    <h1> 
-
-    </div>
-
+    
 <article id="results">
     <h2 class="major">Resultate</h2>
     <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
-    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+    <p>Hier werden die Resultate veröffentlicht. </p>
+    <p> Download Report hier</p>
 </article>
 
 <article id="poll">
     <h2 class="major">Umfrage</h2>
-    
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPSLuoTHhoBD5fj1fqRV0zWYu5Hqx6xgh9TECi1TK8GY3seQ/viewform?embedded=true" width="640" height="2035" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
 </article>
 
 <article id="about">
     <h2 class="major">Über uns</h2>
     <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
-    <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+    <p> Im Rahmen des Schulunterrichtes wurde uns die Aufgabe gegeben, eine Umfrage zu erstellen. Unser Team hatte sich für das Thema der Zahlungsmethoden entschieden, da  </p> 
 </article>
 
 </div>
