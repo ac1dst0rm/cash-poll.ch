@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<title>SeriveDesk Monitoring</title>
+<title>Cash-poll.ch</title>
 <meta charset="UTF-8">
-<meta name="description" content="ServiceDesk Übersichtstafel / Monitoring Status Page">.
+<meta name="description" content="cash-poll.ch Results and background information">.
 <meta name="author" content="Sven Gasser">
 </header>
 
 <body>
 <div id="header">
     <h1>Simple Site</h1>
-    <ul class="nav global">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Articles</a></li>
-        <li><a href="#">Portfolio</a></li>
-    </ul>
+    <nav>
+        <ul>
+            <li><a href="#results">Results</a></li>
+            <li><a href="#poll">Poll</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
  
 </div>
