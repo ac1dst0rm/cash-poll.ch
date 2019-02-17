@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<title>Cash-poll.ch</title>
-<meta charset="UTF-8">
-<meta name="description" content="cash-poll.ch Results and background information">.
-<meta name="author" content="Sven Gasser">
-</header>
+    <title>Cash-poll.ch</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="cash-poll.ch Results and background information">
+    <meta name="author" content="Sven Gasser">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
 
 <body>
 <div id="header">
-    <h1>Simple Site</h1>
-    <nav>
+    <h1>Cash-Poll: Eine Umfrage.</h1>
+    <nav class="nav">
         <ul>
-            <li><a href="#results">Results</a></li>
-            <li><a href="#poll">Poll</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="#results">Resultate</a></li>
+            <li><a href="#poll">Umfrage/a></li>
+            <li><a href="#about">Über</a></li>
         </ul>
     </nav>
  
