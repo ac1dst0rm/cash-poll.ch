@@ -1,7 +1,5 @@
 <?php
-    // Load config
-    require_once("resources/config.php");
-     
+    // Load header
     require_once("header.php");
 ?>
 <div id="container">

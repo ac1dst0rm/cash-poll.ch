@@ -2,6 +2,10 @@
     <div class="inner">
     
 <article id="results">
+    <header class="major"> 
+        <span class>
+        <h2>Diest ist ein Text.</h2>
+        <p>Beschreibung </p>
     <h2 class="major">Resultate</h2>
     <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
     <p>Hier werden die Resultate veröffentlicht. </p>
@@ -15,7 +19,6 @@
 
 <article id="about">
     <h2 class="major">Über uns</h2>
-    <span class="image main"><img src="img/pic01.jpg" alt="" /></span>
     <p> Im Rahmen des Schulunterrichtes wurde uns die Aufgabe gegeben, eine Umfrage zu erstellen. Unser Team hatte sich für das Thema der Zahlungsmethoden entschieden, da  </p> 
 </article>
 

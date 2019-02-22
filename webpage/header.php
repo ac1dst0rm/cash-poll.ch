@@ -11,11 +11,15 @@
 <body>
 <div id="header">
     <h1>Cash-Poll: Eine Umfrage.</h1>
-    <nav class="nav">
+    <p> Hier packen wir eine super Beschreibung rein. </p>
+
+    <a class="btn-download" href="index.php/download">
+</div>
+
+<nav class="nav">
         <ul>
             <li><a href="#results">Resultate</a></li>
             <li><a href="#poll">Umfrage</a></li>
             <li><a href="#about">Über</a></li>
         </ul>
     </nav>
- </div>
