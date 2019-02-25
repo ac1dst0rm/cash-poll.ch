@@ -6,4 +6,6 @@ Created on 22.02.2019
 @function: Get the data and so some stuff. 
     
 """
-import 
+import plotly
+
+import_file = pd.read_csv('data.csv')
