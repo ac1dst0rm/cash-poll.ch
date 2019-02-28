@@ -1,0 +1,47 @@
+﻿///$tab Main
+/* Settings based on locale*/
+SET ThousandSep="'";
+SET DecimalSep='.';
+SET MoneyThousandSep="'";
+SET MoneyDecimalSep='.';
+SET MoneyFormat='CHF #''##0.00;CHF-#''##0.00';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='DD.MM.YYYY';
+SET TimestampFormat='DD.MM.YYYY hh:mm:ss[.fff]';
+SET FirstWeekDay=0;
+SET BrokenWeeks=0;
+SET ReferenceDay=4;
+SET FirstMonthOfYear=1;
+SET CollationLocale='de-CH';
+SET MonthNames='Jan;Feb;Mär;Apr;Mai;Jun;Jul;Aug;Sep;Okt;Nov;Dez';
+SET LongMonthNames='Januar;Februar;März;April;Mai;Juni;Juli;August;September;Oktober;November;Dezember';
+SET DayNames='Mo.;Di.;Mi.;Do.;Fr.;Sa.;So.';
+SET LongDayNames='Montag;Dienstag;Mittwoch;Donnerstag;Freitag;Samstag;Sonntag';
+
+/* Load Data */
+/* We don't need to specify an alias for the columns (this would be done with "as")*/
+LOAD ID, 
+     Zeitstempel, 
+     Alterskategorie, 
+     Geschlecht, 
+     Ansiedelung, 
+     Tätigkeitsform, 
+     Bargeld, 
+     [Zahlungsmethoden Rechnungen], 
+     [Zahlungsmethode Offline], 
+     [Zahlungsmethoden Online], 
+     [Kontaktloses Zahlen Debitkredikarte], 
+     [Mehr Cash-less], 
+     Sicherheitsbedenken
+
+/* Define Location from datasource*/     
+FROM
+[C:\Users\sveng\Desktop\antworten.csv]
+
+/* Set metadata*/
+(txt, codepage is 28591, embedded labels, delimiter is ';', msq);
+
+/* Filter for Data */
+/* Exclude faked / wrong data - example: a person > 65 years won't go to school anymore ;D */
+
+ 
