@@ -1,0 +1,91 @@
+ID;Zeitstempel;Alterskategorie;Geschlecht;Ansiedelung;Tätigkeitsform;Bargeld;Zahlungsmethoden Rechnungen;Zahlungsmethode Offline;Zahlungsmethoden Online;Kontaktloses Zahlen Debitkredikarte;Mehr Cash-less;Sicherheitsbedenken
+1;15.02.2019 16:53;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Rechnung;Ja;Ja;Ja
+2;21.02.2019 12:26;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;TWINT;Ja;Ja;Nein
+3;22.02.2019 16:12;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Rechnung;Nein;Ja;Ja
+4;23.02.2019 11:37;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Nein;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Ja
+5;23.02.2019 11:37;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Nein;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Ja
+6;23.02.2019 11:39;35 - 50 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Berufstätig;Nein;E-Banking;Bargeld;Ich kaufe nichts online ein;Ich besitze keine Karte;Nein;Ja
+7;23.02.2019 11:47;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+8;27.02.2019 12:33;13 - 17 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;TWINT;Ja;Ja;Nein
+9;27.02.2019 12:45;13 - 17 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Rechnung;Nein;Nein;Ja
+10;27.02.2019 12:46;18 - 24 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Rechnung;Ja;Nein;Nein
+11;27.02.2019 12:48;18 - 24 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Schüler;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+12;27.02.2019 12:48;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Nein;Ja;Ja
+13;27.02.2019 12:54;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Rechnung;Ja;Ja;Ja
+14;27.02.2019 12:58;18 - 24 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;PayPal;Ja;Nein;Ja
+15;27.02.2019 12:59;65 Jahre oder Älter;Weiblich;Grossstadt (35'000 oder mehr Einwohner);Praktikum / In Ausbildung;Nein;Ich bezahle noch keine Rechnungen;Andere;Ich kaufe nichts online ein;Ich besitze keine Karte;Nein;Nein
+16;27.02.2019 13:00;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Ja
+17;27.02.2019 13:00;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+18;27.02.2019 13:00;65 Jahre oder Älter;Weiblich;Grossstadt (35'000 oder mehr Einwohner);Praktikum / In Ausbildung;Nein;Ich bezahle noch keine Rechnungen;Andere;Andere;Ich besitze keine Karte;Nein;Nein
+19;27.02.2019 13:00;35 - 50 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Rechnung;Ja;Ja;Nein
+20;27.02.2019 13:00;25 - 34 Jahre;Männlich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;TWINT;Ja;Ja;Nein
+21;27.02.2019 13:00;65 Jahre oder Älter;Männlich;Grossstadt (35'000 oder mehr Einwohner);Schüler;Ja;Schalter;Bargeld;PayPal;Nein;Ja;Ja
+22;27.02.2019 13:01;13 - 17 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Schüler;Ja;Ich bezahle noch keine Rechnungen;Bargeld;Sofortüberweisung;Ja;Nein;Ja
+23;27.02.2019 13:01;25 - 34 Jahre;Weiblich;Grossstadt (35'000 oder mehr Einwohner);Studium;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Nein
+24;27.02.2019 13:02;35 - 50 Jahre;Männlich;Weiler (bis 499 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;TWINT;Ja;Ja;Ja
+25;27.02.2019 13:03;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Nein;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Ja
+26;27.02.2019 13:03;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+27;27.02.2019 13:03;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Nein;Nein
+28;27.02.2019 13:03;18 - 24 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;TWINT;Ja;Ja;Nein
+29;27.02.2019 13:04;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Sofortüberweisung;Ja;Ja;Ja
+30;27.02.2019 13:04;35 - 50 Jahre;Weiblich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Ja
+31;27.02.2019 13:05;25 - 34 Jahre;Männlich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+32;27.02.2019 13:07;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Nein;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Nein;Ja;Ja
+33;27.02.2019 13:09;35 - 50 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;Schalter;Bargeld;Rechnung;Nein;Nein;Ja
+34;27.02.2019 13:09;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Ja
+35;27.02.2019 13:16;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Rechnung;Nein;Nein;Nein
+36;27.02.2019 13:25;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Nein;E-Banking;TWINT;PayPal;Ja;Ja;Nein
+37;27.02.2019 13:26;51 - 64 Jahre;Männlich;Weiler (bis 499 Einwohner);Schüler;Ja;Schalter;Bargeld;Ich kaufe nichts online ein;Ich besitze keine Karte;Ja;Nein
+38;27.02.2019 13:34;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Nein;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+39;27.02.2019 13:46;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Ja
+40;27.02.2019 13:47;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+41;27.02.2019 13:49;35 - 50 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+42;27.02.2019 13:52;18 - 24 Jahre;Männlich;Weiler (bis 499 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Ja;Nein;Nein
+43;27.02.2019 14:07;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;TWINT;Kreditkarte / Debitkarte;Ja;Ja;Nein
+44;27.02.2019 14:12;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;PayPal;Ja;Nein;Nein
+45;27.02.2019 14:23;51 - 64 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Nein;Nein
+46;27.02.2019 14:45;13 - 17 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Studium;Ja;Schalter;Bargeld;Rechnung;Ja;Ja;Ja
+47;27.02.2019 14:48;51 - 64 Jahre;Männlich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Nein
+48;27.02.2019 14:50;65 Jahre oder Älter;Weiblich;Grossstadt (35'000 oder mehr Einwohner);Schüler;Ja;Ich bezahle noch keine Rechnungen;Apple Pay;Apple Pay;Ich besitze keine Karte;Nein;Ja
+49;27.02.2019 14:58;35 - 50 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;TWINT;PayPal;Ja;Ja;Ja
+50;27.02.2019 15:20;51 - 64 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Sofortüberweisung;Ja;Ja;Nein
+51;27.02.2019 15:48;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Ja
+52;27.02.2019 15:54;25 - 34 Jahre;Männlich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Nein;Ja;Ja
+53;27.02.2019 16:08;18 - 24 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Nein
+54;27.02.2019 16:12;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+55;27.02.2019 16:22;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Ja
+56;27.02.2019 16:34;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;TWINT;Kreditkarte / Debitkarte;Ja;Ja;Nein
+57;27.02.2019 16:38;18 - 24 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Bargeld;Rechnung;Ja;Nein;Nein
+58;27.02.2019 16:58;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Ja
+59;27.02.2019 17:02;13 - 17 Jahre;Weiblich;Stadt (15'000 - 34'999 Einwohner);Schüler;Ja;Ich bezahle noch keine Rechnungen;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+60;27.02.2019 17:07;13 - 17 Jahre;Weiblich;Stadt (15'000 - 34'999 Einwohner);Praktikum / In Ausbildung;Nein;E-Banking;TWINT;Kreditkarte / Debitkarte;Ja;Ja;Nein
+61;27.02.2019 17:19;13 - 17 Jahre;Weiblich;Stadt (15'000 - 34'999 Einwohner);Schüler;Ja;Ich bezahle noch keine Rechnungen;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+62;27.02.2019 17:31;13 - 17 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Schüler;Nein;Ich bezahle noch keine Rechnungen;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+63;27.02.2019 18:12;25 - 34 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Ja
+64;27.02.2019 18:23;13 - 17 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Schüler;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Ja
+65;27.02.2019 19:04;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Ja
+66;27.02.2019 19:04;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Ja
+67;27.02.2019 19:05;51 - 64 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Nein;Nein;Nein
+68;27.02.2019 22:06;13 - 17 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Schüler;Nein;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+69;28.02.2019 06:38;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+70;28.02.2019 06:39;51 - 64 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Nein;Nein;Ja
+71;28.02.2019 07:42;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+72;28.02.2019 07:55;18 - 24 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Nein;Nein;Nein
+73;28.02.2019 08:17;18 - 24 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Praktikum / In Ausbildung;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+74;28.02.2019 08:26;18 - 24 Jahre;Weiblich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Nein;Ja
+75;28.02.2019 08:41;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Rechnung;Ja;Ja;Nein
+76;28.02.2019 08:42;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Nein;Ja;Nein
+77;28.02.2019 08:43;35 - 50 Jahre;Weiblich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;Schalter;Bargeld;Rechnung;Ich besitze keine Karte;Nein;Ja
+78;28.02.2019 08:45;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Rechnung;Ja;Nein;Ja
+79;28.02.2019 08:46;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Studium;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Ja
+80;28.02.2019 08:56;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+81;28.02.2019 08:56;25 - 34 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Nein;E-Banking;Bargeld;PayPal;Ja;Ja;Nein
+82;28.02.2019 08:57;35 - 50 Jahre;Männlich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Ja;E-Banking;Apple Pay;Kreditkarte / Debitkarte;Ja;Ja;Nein
+83;28.02.2019 09:03;25 - 34 Jahre;Weiblich;Stadt (15'000 - 34'999 Einwohner);Berufstätig;Nein;E-Banking;TWINT;Kreditkarte / Debitkarte;Ja;Ja;Nein
+84;28.02.2019 09:11;51 - 64 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+85;28.02.2019 09:31;51 - 64 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Ja;Nein
+86;28.02.2019 09:46;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;TWINT;PayPal;Ja;Ja;Nein
+87;28.02.2019 10:21;25 - 34 Jahre;Männlich;Grossstadt (35'000 oder mehr Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+88;28.02.2019 10:58;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;Kreditkarte / Debitkarte;Ja;Ja;Nein
+89;28.02.2019 11:17;35 - 50 Jahre;Männlich;Dorf (500 - 14'999 Einwohner);Berufstätig;Ja;E-Banking;Kreditkarte / Debitkarte;PayPal;Ja;Nein;Nein
+90;28.02.2019 12:43;35 - 50 Jahre;Männlich;Weiler (bis 499 Einwohner);Berufstätig;Ja;E-Banking;Bargeld;Kreditkarte / Debitkarte;Ja;Ja;Nein
